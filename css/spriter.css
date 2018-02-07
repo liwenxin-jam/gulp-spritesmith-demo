@@ -1,0 +1,29 @@
+.icon-finished-Furniture-menu1 {
+	display: none;
+    background-image: url('../images/finished-Furniture-menu1.png');
+}
+
+.icon-finished-Furniture-menu1_active {
+	color: red;
+    background-image: url('../images/finished-Furniture-menu1_active.png');
+}
+
+.icon-finished-Furniture-menu2 {
+	font-size: 20px;
+    background-image: url('../images/finished-Furniture-menu2.png');
+}
+
+.icon-finished-Furniture-menu2_active {
+	border: 1px solid #ccc;
+    background-image: url('../images/finished-Furniture-menu2_active.png');
+}
+
+.icon-finished-Furniture-menu3 {
+	display: block;
+    background-image: url('../images/finished-Furniture-menu3.png');
+}
+
+.icon-finished-Furniture-menu3_active {
+	float: left;
+    background-image: url('../images/finished-Furniture-menu3_active.png');
+}
